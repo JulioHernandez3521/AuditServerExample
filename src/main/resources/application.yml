@@ -1,0 +1,4 @@
+application:
+  author: Julio Hernandez
+  title: @project.name@
+  version: @project.version@
